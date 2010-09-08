@@ -1,0 +1,11 @@
+Jun 30, 2010 8:53:20 PM liquibase.database.template.JdbcTemplate comment
+INFO: Lock Database
+Jun 30, 2010 8:53:20 PM liquibase.lock.LockHandler acquireLock
+INFO: Successfully acquired change log lock
+Jun 30, 2010 8:53:21 PM liquibase.database.AbstractDatabase getRanChangeSetList
+INFO: Reading from `DATABASECHANGELOG`
+Jun 30, 2010 8:53:21 PM liquibase.database.template.JdbcTemplate comment
+INFO: Release Database Lock
+Jun 30, 2010 8:53:21 PM liquibase.lock.LockHandler releaseLock
+INFO: Successfully released change log lock
+

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="fdayan-mbp.local" id="0" name="LiquibaseDslTests" package="" tests="1" time="1.555" timestamp="2010-07-01T00:53:19">
+      <properties>
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.boot.library.path" value="/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Libraries" />
+
+          <property name="java.vm.version" value="16.3-b01-279" />
+
+          <property name="awt.nativeDoubleBuffering" value="true" />
+
+          <property name="gopherProxySet" value="false" />
+
+          <property name="ant.version" value="Apache Ant version 1.7.0 compiled on December 13 2006" />
+
+          <property name="mrj.build" value="10M3065" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="java.vm.vendor" value="Apple Inc." />
+
+          <property name="java.vendor.url" value="http://www.apple.com/" />
+
+          <property name="path.separator" value=":" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="user.country" value="US" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="sun.os.patch.level" value="unknown" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="user.dir" value="/Users/fddayan/projects/groovy/liquibase-dsl" />
+
+          <property name="java.runtime.version" value="1.6.0_20-b02-279-10M3065" />
+
+          <property name="java.awt.graphicsenv" value="apple.awt.CGraphicsEnvironment" />
+
+          <property name="basedir" value="/Users/fddayan/projects/groovy/liquibase-dsl" />
+
+          <property name="java.endorsed.dirs" value="/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/endorsed" />
+
+          <property name="os.arch" value="x86_64" />
+
+          <property name="java.io.tmpdir" value="/var/folders/W5/W54JhjpDGFu5TEP4NrMl7U+++TI/-Tmp-/" />
+
+          <property name="ant.core.lib" value="/usr/share/gradle-0.8/lib/ant-1.7.0.jar" />
+
+          <property name="line.separator" value=" " />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="os.name" value="Mac OS X" />
+
+          <property name="tools.jar" value="/Library/Java/Home/lib/tools.jar" />
+
+          <property name="sun.jnu.encoding" value="MacRoman" />
+
+          <property name="java.library.path" value=".:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Server Compiler" />
+
+          <property name="os.version" value="10.6.3" />
+
+          <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+
+          <property name="user.home" value="/Users/fddayan" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="java.awt.printerjob" value="apple.awt.CPrinterJob" />
+
+          <property name="file.encoding" value="MacRoman" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="java.class.path" value="/Users/fddayan/projects/groovy/liquibase-dsl/build/classes/test:/Users/fddayan/projects/groovy/liquibase-dsl/build/classes/main:/Users/fddayan/.gradle/cache/org.codehaus.groovy/groovy/jars/groovy-1.7.0.jar:/Users/fddayan/.gradle/cache/antlr/antlr/jars/antlr-2.7.7.jar:/Users/fddayan/.gradle/cache/asm/asm/jars/asm-3.2.jar:/Users/fddayan/.gradle/cache/asm/asm-commons/jars/asm-commons-3.2.jar:/Users/fddayan/.gradle/cache/asm/asm-tree/jars/asm-tree-3.2.jar:/Users/fddayan/.gradle/cache/asm/asm-util/jars/asm-util-3.2.jar:/Users/fddayan/.gradle/cache/asm/asm-analysis/jars/asm-analysis-3.2.jar:/Users/fddayan/.gradle/cache/jline/jline/jars/jline-0.9.94.jar:/Users/fddayan/.gradle/cache/org.liquibase/liquibase-core/jars/liquibase-core-1.9.5.jar:/Users/fddayan/.gradle/cache/commons-beanutils/commons-beanutils/jars/commons-beanutils-1.8.3.jar:/Users/fddayan/.gradle/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:/Users/fddayan/.gradle/cache/commons-lang/commons-lang/jars/commons-lang-2.5.jar:/Users/fddayan/.gradle/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.12.jar:/Users/fddayan/.gradle/cache/junit/junit/jars/junit-4.7.jar:/usr/share/gradle-0.8/lib/ant-1.7.0.jar:/usr/share/gradle-0.8/lib/ant-junit-1.7.0.jar:/usr/share/gradle-0.8/lib/ant-launcher-1.7.0.jar:/usr/share/gradle-0.8/lib/ant-nodeps-1.7.0.jar:/usr/share/gradle-0.8/lib/ant-trax-1.7.0.jar" />
+
+          <property name="user.name" value="fddayan" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="java.home" value="/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="user.language" value="en" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="awt.toolkit" value="apple.awt.CToolkit" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="java.version" value="1.6.0_20" />
+
+          <property name="java.ext.dirs" value="/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext" />
+
+          <property name="gradle.home" value="/usr/share/gradle-0.8" />
+
+          <property name="sun.boot.class.path" value="/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jsfd.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/ui.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/laf.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/sunrsasign.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jsse.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jce.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/charsets.jar" />
+
+          <property name="java.vendor" value="Apple Inc." />
+
+          <property name="file.separator" value="/" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.apple.com/" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="mrj.version" value="1060.1.6.0_20-279" />
+
+          <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+
+          <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+
+          <property name="sun.cpu.isalist" value="" />
+
+      </properties>
+
+      <testcase classname="LiquibaseDslTests" name="testUpdateShouldCreateTable" time="1.492" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[Jun 30, 2010 8:53:20 PM liquibase.database.template.JdbcTemplate comment
+INFO: Lock Database
+Jun 30, 2010 8:53:20 PM liquibase.lock.LockHandler acquireLock
+INFO: Successfully acquired change log lock
+Jun 30, 2010 8:53:21 PM liquibase.database.AbstractDatabase getRanChangeSetList
+INFO: Reading from `DATABASECHANGELOG`
+Jun 30, 2010 8:53:21 PM liquibase.database.template.JdbcTemplate comment
+INFO: Release Database Lock
+Jun 30, 2010 8:53:21 PM liquibase.lock.LockHandler releaseLock
+INFO: Successfully released change log lock
+]]></system-err>
+
+  </testsuite>
+</testsuites>
