@@ -1,0 +1,2 @@
+This code was extracted from autobase. A grails plugin that integrations groovy, liquibase and grails. 
+All the credit should go to that projece since I just extracted the code for easy integration with other tools.
